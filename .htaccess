@@ -1,4 +1,4 @@
 AuthName "login."
 AuthType Basic
-AuthUserFile ./.htpasswd
+AuthUserFile /abspathtodirusepwdtofindout/.htpasswd
 require user will
